@@ -21,6 +21,7 @@ class BelanjaSetelahRefactoring {
         int totalBelanja = hitungTotalBelanja(daftarBarang);
 
         System.out.println("Total belanja anda adalah: " + totalBelanja);
+        System.out.println("Total belanja  adalah: " + totalBelanja);
 
         scanner.close();
     }
