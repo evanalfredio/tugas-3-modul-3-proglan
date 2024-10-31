@@ -10,7 +10,8 @@ class BelanjaSetelahRefactoring {
                 new Main.Barang("Shampoo", 15000),
                 new Main.Barang("Pasta Gigi", 8000),
                 new Main.Barang("Sikat Gigi", 7000),
-                new Main.Barang("Sabun Cuci", 6000)
+                new Main.Barang("Sabun Cuci", 6000),
+                new Main.Barang("sabun cuci muka", 45000)
         };
 
         for (Main.Barang barang : daftarBarang) {
