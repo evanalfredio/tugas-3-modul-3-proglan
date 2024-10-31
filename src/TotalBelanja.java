@@ -22,7 +22,7 @@ class BelanjaSetelahRefactoring {
         int totalBelanja = hitungTotalBelanja(daftarBarang);
 
         System.out.println("Total belanja anda adalah: " + totalBelanja);
-
+        System.out.println("bagus adik madam");
         scanner.close();
     }
 
