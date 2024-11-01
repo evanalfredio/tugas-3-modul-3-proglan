@@ -22,6 +22,7 @@ class BelanjaSetelahRefactoring {
 
         System.out.println("Total belanja anda adalah: " + totalBelanja);
         System.out.println("kuk: " + totalBelanja);
+        System.out.println();
         scanner.close();
     }
 
